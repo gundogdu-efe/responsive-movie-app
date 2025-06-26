@@ -9,6 +9,7 @@ Link: https://movie-app9857.netlify.app/
 
 Özellikler / Features
 
+[TR]
 - Responsive tasarım (mobil, tablet, masaüstü uyumlu)
 - Ana sayfada hoş geldiniz ekranı (Showcase bölümü)
 - "Nasıl Çalışır?" bölümü ile kullanıcı bilgilendirme
@@ -19,7 +20,7 @@ Link: https://movie-app9857.netlify.app/
 - Font Awesome simgeleri ile modern görünüm
 - CSS Flex ve Grid yapıları ile düzenli yerleşim
 - ------------------------------------------------
-
+[EN]
 - Fully responsive design (mobile, tablet, desktop support)
 - Welcome (showcase) section with background image
 - “How it works” section to guide new users
@@ -29,6 +30,7 @@ Link: https://movie-app9857.netlify.app/
 - Scroll-to-top button for better navigation
 - Font Awesome icons for modern UI elements
 - Clean layout using CSS Flexbox & Grid
+  
 
 Kullanılan Teknolojiler / Built With
 
